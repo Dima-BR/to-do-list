@@ -1,1 +1,12 @@
-# to-do-list
+# ToDo List App
+
+This is a simple ToDo List application built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Add tasks to the list.
+- Mark tasks as completed.
+- Remove tasks from the list.
+
+## check it live 
+
