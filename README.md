@@ -8,5 +8,5 @@ This is a simple ToDo List application built using HTML, CSS, and JavaScript.
 - Mark tasks as completed.
 - Remove tasks from the list.
 
-## check it live 
+## Check it live 
 https://dima-br.github.io/to-do-list/
